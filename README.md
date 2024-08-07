@@ -21,10 +21,8 @@ Image encryption and decryption are crucial in various fields such as secure com
 ## ⚙️ Installation
 To get started with this project, clone the repository and install the necessary dependencies:
 
-```bash
-[git clone https://github.com/Jokika11/Prasunet_CS_02/image-encryption-decryption.git
-](https://github.com/Jokika11/Prasunet_CS_02.git)
-```
+git clone https://github.com/Jokika11/Prasunet_CS_02/image-encryption-decryption.git
+
 ## 🚀 Usage
 You can use the provided script to encrypt and decrypt images easily.
 
